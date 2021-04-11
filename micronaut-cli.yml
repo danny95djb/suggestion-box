@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.github.danny95djb
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, hibernate-validator, http-client, junit, kotlin, kotlin-application, log4j2, netty-server, readme, shade, yaml]
